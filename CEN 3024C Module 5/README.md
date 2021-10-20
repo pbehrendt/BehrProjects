@@ -13,7 +13,8 @@ I recommend using all nonnegative integer numbers since the project is not set t
 ## Demo
 
 The following clip shows an example of the program in action:
-![2021-10-20 15-16-05](https://user-images.githubusercontent.com/90351944/138158742-23cbff21-54b2-4a12-b383-0e16d56c28e7.gif)
+![Assignment Demo](https://user-images.githubusercontent.com/90351944/138159337-ed2b28ff-5310-4a70-afaa-46fa3e7b807f.gif)
+
 
   
 ## Screenshots
