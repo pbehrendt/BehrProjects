@@ -32,18 +32,22 @@ public class documentationAssignment {
 	}
 	
 	public static void main (String args[]) {
+		/*Declare new Scanner to get input for n*/
 		Scanner scnr = new Scanner(System.in);
 		
+		/*Prompt user to enter number for Fibonacci equations*/
 		System.out.println("Please enter an integer number: ");
 		int n = scnr.nextInt();
 		
+		/*Print the equation value and total time for iteration method*/
 		long startTime1 = System.nanoTime();
 		System.out.println("Iteration: " + iterationEquation(n) + " " + (System.nanoTime() - startTime1));
 		
+		/*Print equation value and total time for recursion method*/
 		long startTime2 = System.nanoTime();
 		System.out.println("Recursion: " + recursionEquation(n) + " " + (System.nanoTime() - startTime2));
 		
-		
+		/*Close the scanner*/
 		scnr.close();
 	}
 }
