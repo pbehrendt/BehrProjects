@@ -23,7 +23,10 @@ Here is a screenshot to show the type of information
 you could compile by using this program.
 ![Module5AssignmentChart(Parker Behrendt)](https://user-images.githubusercontent.com/90351944/138158780-fc950eb8-0583-4d3c-b6fc-5142bf638bdf.JPG)
 
+##Issues
 
+Negative numbers do not work with this program so be sure when you are doing your own tests 
+that you are using nothing but postive integer numbers.
   
 ## Authors
 This project was created by me for a college assignment.
